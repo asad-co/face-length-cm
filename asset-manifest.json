@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/face-length-cm/static/css/main.78eee4d0.css",
+    "main.js": "/face-length-cm/static/js/main.bf6a8618.js",
+    "index.html": "/face-length-cm/index.html",
+    "main.78eee4d0.css.map": "/face-length-cm/static/css/main.78eee4d0.css.map",
+    "main.bf6a8618.js.map": "/face-length-cm/static/js/main.bf6a8618.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78eee4d0.css",
+    "static/js/main.bf6a8618.js"
+  ]
+}
